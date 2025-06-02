@@ -45,7 +45,6 @@ Currently pursuing Data Science and Machine Learning at Scaler to enhance my abi
 
 ### 🧮 Programming Languages
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **R** (Statistical modeling, visualizations)  
 - **SQL** (MySQL, BigQuery)
 
 ### 📊 Visualization
