@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SushmaKamalampeta&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/-Sushma%20Kamalampeta-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sushma-k-62b44b25/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/SushmaKamalampeta/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&style=flat-square)](https://www.hackerrank.com/profile/kondapallisushma)
+
 
 ---
 
@@ -46,7 +46,7 @@ Currently pursuing Data Science and Machine Learning at Scaler to enhance my abi
 ### 🧮 Programming Languages
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **R** (Statistical modeling, visualizations)  
-- **SQL** (MySQL, PostgreSQL, BigQuery)
+- **SQL** (MySQL, BigQuery)
 
 ### 📊 Visualization
 - **Power BI**  
@@ -57,32 +57,32 @@ Currently pursuing Data Science and Machine Learning at Scaler to enhance my abi
 
 ### 🧹 Data Cleaning
 - **Pandas**  
-- **OpenRefine**  
-- **Trifacta**
+
 
 ### 🗄️ Databases & Storage
-- **MySQL, PostgreSQL**  
-- **MongoDB (NoSQL)**  
-- **BigQuery, Snowflake, Redshift**
+- **MySQL**  
+- **BigQuery**
 
 ### 🧠 Statistical Tools
 - **Jupyter Notebooks / Google Colab**  
 - **SPSS / SAS**
 
 ### 🔁 Collaboration & Version Control
-- **Git / GitHub**
+- **Git / GitHub**  
 - **SVN**
-
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **kondapallisushma@gmail.com**  
+- 📧 **kondapallisushma@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sushma-k-62b44b25/)  
 - 🧑‍💻 [GitHub](https://github.com/SushmaKamalampeta/)  
 - 📘 [Scaler Profile](https://www.scaler.com/academy/profile/)  
-- 💡 [LeetCode](https://leetcode.com/u/123sushma/) | [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
+- 💡 [LeetCode](https://leetcode.com/u/123sushma/)
+- 💡 [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
+
+---
 
 ---
 
@@ -100,7 +100,11 @@ Currently pursuing Data Science and Machine Learning at Scaler to enhance my abi
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-exc)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 🚀 *Passionate about transforming HR data into actionable insights and driving organizational growth through evidence-based people strategies.*
 
 
 
