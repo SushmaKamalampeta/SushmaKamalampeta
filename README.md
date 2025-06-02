@@ -3,84 +3,104 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SushmaKamalampeta&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/-Sushma%20Kamalampeta-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sushma-k-62b44b25/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/SushmaKamalampeta/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&style=flat-square)](https://www.hackerrank.com/profile/kondapallisushma)
 
 ---
 
 ## 💡 About Me
 
-I am a passionate HR professional with over 10 years of experience blending human resources expertise with data analytics to drive smarter, data-informed people strategies. Skilled in transforming complex HR data into actionable insights, I help organizations improve workforce planning, retention, and engagement across diverse industries including e-commerce, IT, and healthcare.
+I am a passionate HR professional with 10+ years of experience blending human resources expertise with data analytics to drive smarter, data-informed people strategies. Skilled in transforming complex HR data into actionable insights, I help organizations improve workforce planning, retention, and engagement across diverse industries including e-commerce, IT, and healthcare.
 
-Currently expanding my expertise in data science and machine learning to enhance my ability to solve real-world HR challenges using advanced analytics and predictive modeling.
-
----
-
-## 💼 Human Resources Manager | HR Data Analyst  
-**10+ years of experience | Excel • SQL • Python • Power BI • Tableau**
-
-I’m an accomplished HR professional who thrives on transforming complex workforce data into actionable strategies that drive organizational success. With hands-on experience across e-commerce, IT, and healthcare, I combine deep HR expertise with emerging data science skills.
+Currently pursuing Data Science and Machine Learning at Scaler to enhance my ability to solve real-world HR and business problems using analytics and predictive modeling.
 
 ---
 
-## 📚 Education
+## 💼 HR Data Analyst | Human Resources Manager
 
-🎓 **Data Science & Machine Learning** – *Scaler*  
-🎓 **MBA, Human Resources Management** – *Sree Dattha Institutions (2008–2010)*  
-🎓 **B.Sc. in Mathematics, Physics, and Computer Science** – *YPR Degree College (2005–2008)*
-
----
-
-## 📊 HR Analytics Expertise
-
-- 📌 **HR Reporting & Dashboards** – Advanced Excel, Power BI  
-- 📌 **Recruitment Funnel Analysis** – Sourcing to onboarding insights  
-- 📌 **Employee Retention & Attrition** – Root-cause and predictive analysis  
-- 📌 **Training Effectiveness** – Qualitative + quantitative impact tracking  
-- 📌 **Workforce Planning** – Strategic collaboration with business leads  
-- 📌 **Audit-Ready Documentation** – Structured, compliant HR data  
-- 📌 **Engagement & Diversity Metrics** – DEI-focused analysis and reporting
+- 📊 Advanced Excel, Python, SQL, Power BI, Tableau  
+- 💡 Recruitment funnel analysis, attrition prediction, training effectiveness  
+- 🤝 Strategic HR partnerships driven by data insights
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🎓 Education
 
-| Category             | Tools & Skills |
-|----------------------|----------------|
-| **Data Analysis**    | Excel (PivotTables, VLOOKUP), Python (Pandas, NumPy), SQL, BigQuery, Power BI, Tableau |
-| **Visualization**    | Power BI, Tableau, Matplotlib, Seaborn |
-| **Version Control**  | GitHub, SVN |
-| **HRIS Platforms**   | Workday, Keka |
-| **Other Tools**      | Microsoft Office Suite |
+- **Pursuing:** Data Science & Machine Learning – *Scaler*
+- **MBA, HR Management** – *Sree Dattha Institutions (2008–2010)*
+- **B.Sc. in MPC** – *YPR Degree College (2005–2008)*
 
 ---
 
-## 🌐 Connect with Me
+## 📊 HR Analytics Experience
 
-- 📧 **kondapallisushma@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sushma-k-62b44b25/)  
-- 💻 [Scaler Profile](https://www.scaler.com/academy/profile/)  
-- 👩‍💻 [GitHub](https://github.com/SushmaKamalampeta/)  
-- 💡 [LeetCode](https://leetcode.com/u/123sushma/)
-- 💡 [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
+- 📌 Recruitment Analytics | Funnel Optimization  
+- 📌 Employee Attrition & Retention Forecasting  
+- 📌 Training Outcome & ROI Measurement  
+- 📌 Engagement, Diversity & Workforce Planning  
+- 📌 Executive Dashboards | Audit-Ready HR Data
 
 ---
 
-### 🚀 *Passionate about transforming HR data into meaningful insights to improve people strategy and performance at scale.*
+## 🛠️ Data Analysis Tools
+
+### 🧮 Programming Languages
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- **R** (Statistical modeling, visualizations)  
+- **SQL** (MySQL, PostgreSQL, BigQuery)
+
+### 📊 Visualization
+- **Power BI**  
+- **Tableau**  
+- **Excel (PivotTables, Dashboards)**  
+- **Matplotlib / Seaborn**  
+- **Plotly**
+
+### 🧹 Data Cleaning
+- **Pandas**  
+- **OpenRefine**  
+- **Trifacta**
+
+### 🗄️ Databases & Storage
+- **MySQL, PostgreSQL**  
+- **MongoDB (NoSQL)**  
+- **BigQuery, Snowflake, Redshift**
+
+### 🧠 Statistical Tools
+- **Jupyter Notebooks / Google Colab**  
+- **SPSS / SAS**
+
+### 🔁 Collaboration & Version Control
+- **Git / GitHub**
+- **SVN**
+
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: **kondapallisushma@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sushma-k-62b44b25/)  
+- 🧑‍💻 [GitHub](https://github.com/SushmaKamalampeta/)  
+- 📘 [Scaler Profile](https://www.scaler.com/academy/profile/)  
+- 💡 [LeetCode](https://leetcode.com/u/123sushma/) | [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Sushma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SushmaKamalampeta&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SushmaKamalampeta&layout=compact&theme=radical)
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧠 Skill Badges
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-exc)
+
+
+
