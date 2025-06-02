@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SushmaKamalampeta&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/-Sushma%20Kamalampeta-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sushma-k-62b44b25/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/SushmaKamalampeta/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&style=flat-square)](https://www.hackerrank.com/profile/kondapallisushma)
+
 
 ---
 
@@ -56,11 +56,12 @@ I’m an accomplished HR professional who thrives on transforming complex workfo
 
 ## 🌐 Connect with Me
 
-- 📧 Email: **kondapallisushma@gmail.com**  
+- 📧  **kondapallisushma@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushma-k-62b44b25/)  
 - 💻 [Scaler Profile](https://www.scaler.com/academy/profile/)  
 - 👩‍💻 [GitHub](https://github.com/SushmaKamalampeta/)  
-- 💡 [LeetCode](https://leetcode.com/u/123sushma/) | [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
+- 💡 [LeetCode](https://leetcode.com/u/123sushma/) 
+- [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
 
 ---
 
