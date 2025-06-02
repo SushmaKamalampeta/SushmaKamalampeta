@@ -7,6 +7,14 @@
 
 ---
 
+## 💡 About Me
+
+I am a passionate HR professional with over 10 years of experience blending human resources expertise with data analytics to drive smarter, data-informed people strategies. Skilled in transforming complex HR data into actionable insights, I help organizations improve workforce planning, retention, and engagement across diverse industries including e-commerce, IT, and healthcare.
+
+Currently expanding my expertise in data science and machine learning to enhance my ability to solve real-world HR challenges using advanced analytics and predictive modeling.
+
+---
+
 ## 💼 Human Resources Manager | HR Data Analyst  
 **10+ years of experience | Excel • SQL • Python • Power BI • Tableau**
 
@@ -57,3 +65,4 @@ I’m an accomplished HR professional who thrives on transforming complex workfo
 ---
 
 ### 🚀 *Passionate about transforming HR data into meaningful insights to improve people strategy and performance at scale.*
+
