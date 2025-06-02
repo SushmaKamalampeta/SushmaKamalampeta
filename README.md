@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SushmaKamalampeta&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/-Sushma%20Kamalampeta-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sushma-k-62b44b25/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/SushmaKamalampeta/)
-
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&style=flat-square)](https://www.hackerrank.com/profile/kondapallisushma)
 
 ---
 
@@ -46,7 +46,7 @@ I’m an accomplished HR professional who thrives on transforming complex workfo
 
 | Category             | Tools & Skills |
 |----------------------|----------------|
-| **Data Analysis**    | Excel (PivotTables, VLOOKUP), Python (Pandas, NumPy), SQL, BigQuery |
+| **Data Analysis**    | Excel (PivotTables, VLOOKUP), Python (Pandas, NumPy), SQL, BigQuery, Power BI, Tableau |
 | **Visualization**    | Power BI, Tableau, Matplotlib, Seaborn |
 | **Version Control**  | GitHub, SVN |
 | **HRIS Platforms**   | Workday, Keka |
@@ -56,14 +56,31 @@ I’m an accomplished HR professional who thrives on transforming complex workfo
 
 ## 🌐 Connect with Me
 
-- 📧  **kondapallisushma@gmail.com**  
+- 📧 Email: **kondapallisushma@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushma-k-62b44b25/)  
 - 💻 [Scaler Profile](https://www.scaler.com/academy/profile/)  
 - 👩‍💻 [GitHub](https://github.com/SushmaKamalampeta/)  
-- 💡 [LeetCode](https://leetcode.com/u/123sushma/) 
-- [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
+- 💡 [LeetCode](https://leetcode.com/u/123sushma/) | [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
 
 ---
 
 ### 🚀 *Passionate about transforming HR data into meaningful insights to improve people strategy and performance at scale.*
 
+---
+
+## 📈 GitHub Stats
+
+![Sushma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SushmaKamalampeta&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SushmaKamalampeta&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
