@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sushma Kamalampeta
 
-<!--
-**SushmaKamalampeta/SushmaKamalampeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=SushmaKamalampeta&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/-Sushma%20Kamalampeta-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sushma-k-62b44b25/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/SushmaKamalampeta/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&style=flat-square)](https://www.hackerrank.com/profile/kondapallisushma)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Human Resources Manager | HR Data Analyst  
+**10+ years of experience | Excel • SQL • Python • Power BI • Tableau**
+
+I’m an accomplished HR professional who thrives on transforming complex workforce data into actionable strategies that drive organizational success. With hands-on experience across e-commerce, IT, and healthcare, I combine deep HR expertise with emerging data science skills.
+
+---
+
+## 📚 Education
+
+🎓 **Data Science & Machine Learning** – *Scaler*  
+🎓 **MBA, Human Resources Management** – *Sree Dattha Institutions (2008–2010)*  
+🎓 **B.Sc. in Mathematics, Physics, and Computer Science** – *YPR Degree College (2005–2008)*
+
+---
+
+## 📊 HR Analytics Expertise
+
+- 📌 **HR Reporting & Dashboards** – Advanced Excel, Power BI  
+- 📌 **Recruitment Funnel Analysis** – Sourcing to onboarding insights  
+- 📌 **Employee Retention & Attrition** – Root-cause and predictive analysis  
+- 📌 **Training Effectiveness** – Qualitative + quantitative impact tracking  
+- 📌 **Workforce Planning** – Strategic collaboration with business leads  
+- 📌 **Audit-Ready Documentation** – Structured, compliant HR data  
+- 📌 **Engagement & Diversity Metrics** – DEI-focused analysis and reporting
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category             | Tools & Skills |
+|----------------------|----------------|
+| **Data Analysis**    | Excel (PivotTables, VLOOKUP), Python (Pandas, NumPy), SQL, BigQuery |
+| **Visualization**    | Power BI, Tableau, Matplotlib, Seaborn |
+| **Version Control**  | GitHub, SVN |
+| **HRIS Platforms**   | Workday, Keka |
+| **Other Tools**      | Microsoft Office Suite |
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: **kondapallisushma@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sushma-k-62b44b25/)  
+- 💻 [Scaler Profile](https://www.scaler.com/academy/profile/)  
+- 👩‍💻 [GitHub](https://github.com/SushmaKamalampeta/)  
+- 💡 [LeetCode](https://leetcode.com/u/123sushma/) | [HackerRank](https://www.hackerrank.com/profile/kondapallisushma)
+
+---
+
+### 🚀 *Passionate about transforming HR data into meaningful insights to improve people strategy and performance at scale.*
