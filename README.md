@@ -27,7 +27,7 @@ Currently pursuing Data Science and Machine Learning at Scaler to enhance my abi
 
 - **Pursuing:** Data Science & Machine Learning – *Scaler*
 - **MBA, HR Management** – *Sree Dattha Institutions (2008–2010)*
-- **B.Sc. in MPC** – *YPR Degree College (2005–2008)*
+- **B.Sc. in MPCs** – *YPR Degree College (2005–2008)*
 
 ---
 
